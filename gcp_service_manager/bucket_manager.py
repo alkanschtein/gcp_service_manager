@@ -1,7 +1,7 @@
 from google.cloud import storage
 
 
-class GCPBucketManager:
+class BucketManager:
     def __init__(self, bucket_name):
         # Use the provided bucket name or default to environment variable
         self.bucket_name = bucket_name
