@@ -13,9 +13,9 @@ setup(
         "google-cloud-storage>=2.18.2",
         "google-cloud-firestore>=2.19.0",
         "google-cloud-pubsub>=2.26.1",
-        "opencv-python>=4.10.0.84",
-        "numpy>=2.1.1",
-        "pillow>=10.4.0"
+        "opencv-python==4.10.0.84",
+        "numpy==2.1.1",
+        "pillow==10.4.0"
     ],
     license="MIT",
     classifiers=[
