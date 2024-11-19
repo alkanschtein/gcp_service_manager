@@ -14,7 +14,7 @@ setup(
         "google-cloud-firestore>=2.19.0",
         "google-cloud-pubsub>=2.26.1",
         "opencv-python==4.10.0.84",
-        "numpy==2.1.0",
+        "numpy==2.0.2",
         "pillow==10.4.0"
     ],
     license="MIT",
@@ -25,5 +25,5 @@ setup(
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
     ],
-    python_requires=">=3.7",
+    python_requires=">=3.9",
 )
